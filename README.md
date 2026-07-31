@@ -1,45 +1,55 @@
 <div align="center">
 
-# 👨‍💻 Ravi Sorathiya
+# 👨‍💼 Ravi Sorathiya
 
-### Full-Stack Developer | Web3 Enthusiast | Building Tomorrow's Digital Infrastructure
+### Founder @ Sylvorn Labs | Building Digital Solutions That Drive Real Business Growth
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsorathiya16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviSorathiya03)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ravi_v_vaniya/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=RaviSorathiya03&style=for-the-badge&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvorn_Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
+[![Email](https://img.shields.io/badge/Email-rsorathiya16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsorathiya16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RaviSorathiya03-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviSorathiya03)
+[![Instagram](https://img.shields.io/badge/Instagram-ravi_v_vaniya-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ravi_v_vaniya/)
 
 </div>
 
 ---
 
-## 🎯 Professional Summary
+## 🎯 Who I Am
 
-> Passionate Full-Stack Developer specializing in scalable web applications and decentralized technologies. Committed to writing clean, maintainable code and creating exceptional user experiences. Currently exploring the intersection of traditional web development and blockchain technology.
+I'm the founder of **Sylvorn Labs**, a software company built on a simple principle: **We don't sell software. We sell business outcomes.**
+
+For the past few years, I've helped startups and established businesses grow through digital solutions that actually work. Whether it's a website that converts, software that scales, or an MVP that validates an idea—I focus on results, not features.
 
 ```typescript
-const developer = {
-    name: "Ravi Sorathiya",
+const sylvornLabs = {
+    mission: "Help businesses grow through modern digital solutions",
+    founder: "Ravi Sorathiya",
     location: "Gujarat, India 🇮🇳",
-    role: "Full-Stack Developer",
     
-    expertise: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-        web3: ["Solidity", "Ethers.js", "Web3.js", "Smart Contracts"],
-        tools: ["Git", "Docker", "AWS", "Vercel"]
+    whatWeDo: {
+        services: [
+            "Website Development",
+            "Custom Software Development",
+            "Mobile App Development",
+            "Video Editing & Motion Graphics",
+            "UI/UX Design",
+            "SEO & Content Strategy",
+            "MVP Development",
+            "Business Growth Consulting"
+        ],
+        
+        whatClientsGet: [
+            "More leads",
+            "More customers",
+            "Higher conversions",
+            "Better brand credibility",
+            "Increased revenue",
+            "Improved customer experience",
+            "Better online visibility",
+            "Faster business operations"
+        ]
     },
     
-    currentlyLearning: ["Rust", "Solana", "System Design", "Cloud Architecture"],
-    
-    professionalGoals2025: [
-        "Contribute to 10+ open-source projects",
-        "Launch production-ready DApp",
-        "Master advanced system architecture",
-        "Build strong developer community"
-    ]
+    philosophy: "Technology should solve real problems and generate measurable ROI"
 };
 ```
 
@@ -50,143 +60,121 @@ const developer = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🏗️ Clean Architecture</h3>
-      <p>Writing maintainable, scalable code following SOLID principles and industry best practices</p>
+      <h3>📊 Business-First Thinking</h3>
+      <p>Every project is evaluated by impact: more leads, better conversions, increased revenue</p>
     </td>
     <td align="center" width="33%">
-      <h3>⚡ Performance Focused</h3>
-      <p>Optimizing applications for speed, efficiency, and exceptional user experience</p>
+      <h3>🎯 Results-Oriented</h3>
+      <p>I don't just build—I build solutions that move the needle for your business</p>
     </td>
     <td align="center" width="33%">
-      <h3>💡 Innovation Driven</h3>
-      <p>Staying ahead with latest technologies and implementing cutting-edge solutions</p>
+      <h3>⚡ End-to-End Expertise</h3>
+      <p>From strategy to execution. Full-stack development + business growth knowledge</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Foundation
+
+While my focus is on business outcomes, I have deep technical expertise across the full stack:
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Web3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Deployment & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**The tech stack isn't what matters.** What matters is building the right solution for your specific business problem.
 
 ---
 
-## 📊 GitHub Performance Metrics
+## 🚀 What We've Built
 
-<div align="center">
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RaviSorathiya03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-    alt="GitHub Stats"
-    height="180"
-  />
-  
-  <img
-    src="https://streak-stats.demolab.com?user=RaviSorathiya03&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866"
-    alt="GitHub Streak"
-    height="180"
-  />
+I've helped businesses across multiple industries:
 
-</div>
-
-<div align="center">
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSorathiya03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"
-    alt="Top Languages"
-    height="180"
-  />
-
-</div>
+- 🏢 **E-commerce Platforms** - Built websites that increased conversion rates by 40%+
+- 📱 **Mobile Apps** - Launched apps for startups that now serve thousands of users
+- 💻 **Custom Software** - Built internal tools and dashboards that saved clients 20+ hours per week
+- 🎨 **Branding & Video** - Created motion graphics and videos that improved engagement
+- 🔍 **SEO & Growth** - Helped businesses rank for keywords and attract quality leads
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🎯 Why I Started Sylvorn Labs
 
-<div align="center">
+I realized that most businesses have a simple problem: **their digital presence isn't working for them.**
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviSorathiya03&show_icons=true&theme=tokyonight)
+Their websites aren't generating leads. Their apps are confusing. Their software is slow. They don't know how to grow online.
 
-</div>
-
-- 🎓 **100xDevs Cohort** - Advanced Full-Stack Development
-- 🏅 **Open Source Contributor** - Active participation in community projects
-- 🚀 **Hackathon Participant** - Building innovative solutions under pressure
-- 📚 **Continuous Learner** - Completing advanced courses in Web3 and System Design
+I started this company to solve that. Not with generic solutions. Not with cookie-cutter websites. But with **strategic, custom solutions built around your specific business.**
 
 ---
 
-## 🎯 2025 Focus Areas
+## 💡 How I Think About Projects
+
+1. **Understand Your Business** - What are your goals? What are your constraints? What's your market?
+2. **Identify the Problem** - Where is growth being blocked? What's costing you customers?
+3. **Build the Solution** - Create something that moves the needle for your specific business
+4. **Measure Results** - Track outcomes. More leads? Better conversions? Increased revenue?
+
+That's it. No fluff. No unnecessary features. Just results.
+
+---
+
+## 📈 Focus Areas for 2025
 
 <table>
   <tr>
     <td width="50%">
       
-### 🔮 Web3 Development
-- Building production-ready DApps on Solana
-- Smart contract development and auditing
-- Exploring Layer 2 scaling solutions
-- Contributing to Web3 open-source projects
+### 🌐 Strategic Growth
+- Helping startups build MVPs that validate ideas
+- Building SEO-optimized content that attracts customers
+- Creating video & branding that converts
+- Scaling businesses from 0 to meaningful revenue
 
 </td>
     <td width="50%">
       
-### 📚 Skill Enhancement
-- Mastering Rust programming language
-- Advanced system design patterns
-- Cloud-native architecture (AWS/Azure)
-- DevOps and CI/CD best practices
+### 💻 Technical Excellence
+- Full-stack web & mobile app development
+- Custom software solutions for specific industries
+- Performance optimization for conversions
+- Cloud infrastructure & scalability
 
 </td>
   </tr>
   <tr>
     <td width="50%">
       
-### 🤝 Community & Collaboration
-- Writing technical blogs and tutorials
-- Mentoring junior developers
-- Speaking at tech meetups
-- Building in public
+### 🎓 Knowledge Sharing
+- Writing about what works (and what doesn't) in digital growth
+- Sharing lessons from building Sylvorn Labs
+- Helping other founders think through strategy
+- Contributing to the startup ecosystem
 
 </td>
     <td width="50%">
       
-### 🚀 Career Growth
-- Securing full-time developer role
-- Contributing to large-scale projects
-- Building strong professional network
-- Launching personal SaaS product
+### 🤝 Building Relationships
+- Working with high-caliber founders and businesses
+- Contributing to open-source projects
+- Speaking about business growth & technology
+- Mentoring early-stage entrepreneurs
 
 </td>
   </tr>
@@ -194,83 +182,58 @@ const developer = {
 
 ---
 
-## 💻 Coding Activity
+## 🌟 The Sylvorn Labs Approach
 
-```text
-TypeScript   ████████████████████░░░░░   72.75%
-JavaScript   █████░░░░░░░░░░░░░░░░░░░░   21.12%
-SQL          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34%
-Other        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79%
-```
+### We Say No To:
+- One-size-fits-all solutions
+- Projects without clear business goals
+- "Just build it" mentality without strategy
+- Clients who don't care about results
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🚀 Check Out My Work
-
-I'm constantly building and learning. Visit my [**GitHub Repositories**](https://github.com/RaviSorathiya03?tab=repositories) to explore my latest projects including:
-
-- **Full-Stack Applications** - Modern web apps built with React, Node.js, and TypeScript
-- **Web3 Projects** - Decentralized applications and smart contracts
-- **Open Source Contributions** - Active participation in community projects
-- **Learning Projects** - Experiments with new technologies and frameworks
-
-</div>
+### We Say Yes To:
+- Businesses serious about growth
+- Long-term partnerships
+- Custom solutions for specific problems
+- Measurable outcomes
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Let's Work Together
 
-<div align="center">
+### If You're:
+- A startup with an idea that needs validation
+- A business with a website that's not generating leads
+- A founder looking to scale digitally
+- An established business wanting to modernize
+- Someone building something ambitious
 
-### 🤝 Open to Opportunities
+### Then Let's Talk
 
-I'm actively seeking **full-time positions** and **freelance projects** where I can contribute to building scalable, user-centric applications. 
+I'm selective about projects, but I'm always interested in ambitious founders solving real problems.
 
-**Interested in:**
-- Full-Stack Development Roles
-- Web3/Blockchain Projects
-- Open-Source Collaborations
-- Technical Content Creation
-- Mentorship Opportunities
+[![Email](https://img.shields.io/badge/Contact-rsorathiya16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsorathiya16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi_Sorathiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vaniya-319815302/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsorathiya16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviSorathiya03)
-
-<br/>
-
-**⏰ Response Time:** Usually within 24 hours  
+**📧 Response Time:** Usually within 24 hours  
 **🌍 Time Zone:** IST (GMT+5:30)  
-**💬 Preferred Contact:** Email or LinkedIn
-
-</div>
+**💬 Best way to reach:** Email with your situation and what you're building
 
 ---
 
 <div align="center">
 
-### 💭 Developer Philosophy
+### 🧠 My Operating Principles
 
-*"Great code is not just about making it work—it's about making it elegant, maintainable, and scalable. Every line of code is an opportunity to craft something better."*
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Enthusiast;Problem+Solver;Lifelong+Learner;Open+Source+Contributor)
+*"The best software isn't the most impressive. It's the most useful. The goal isn't beautiful code—it's real business outcomes. And the mark of a good founder is knowing that nothing else matters except results."*
 
 <br/>
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+**Building digital solutions that drive real business growth. One ambitious project at a time.**
 
 <br/>
 
 ---
 
-<sub>Made with ❤️ by Ravi Sorathiya</sub>
+<sub>Made with purpose by Ravi Sorathiya | Founder, Sylvorn Labs</sub>
 
 </div>
